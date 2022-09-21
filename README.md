@@ -1,8 +1,8 @@
 # Projects
 
-Premier League Statistics (2000-2022)
+-------------------------------------------------
 
-About
+Premier League Statistics (2000-2022)
 
 This is a course project for completion of the course Data Analysis with Python: Zero to Pandas from Jovian & FreeCodeCamp. The main idea is to work with a small dataset (12 columns and & 440 rows in this case) to put in practice some of the skills learnt through out the course which include working with functions, methods, variables, datatypes and many more python concepts.
 
@@ -17,3 +17,5 @@ The key points obtained after analyzing the dataset (2000-2022 period) were the 
 5) The effectiveness of each team (number of points won over number of points disputed).
 6) The campaigns and number of goals scored by the top 5 effective teams.
 7) Analysis of some of the most famous English derbies comparing the campaigns of each team.
+
+-------------------------------------------------
